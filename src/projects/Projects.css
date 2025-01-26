@@ -9,18 +9,40 @@
 }
 .project-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
 }
 .project-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
   padding: 1rem;
   border: 1px solid #e5e7eb;
   border-radius: 0.5rem;
-  background-color: rgb(40, 10, 68);
+  text-decoration: none;
   color: white;
-  font-weight: bold;
+  background-color: rgb(40, 10, 68);
+  transition: transform 0.3s, box-shadow 0.3s;
 }
-.project-item h3 {
+.project-item:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.project-image {
+  width: 60%;
+  height: 90%;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+.project-content {
+  display: flex;
+  flex-direction: column;
+}
+.project-content h3 {
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
+}
+.project-content p {
+  font-size: 0.875rem;
+  color: white;
 }
