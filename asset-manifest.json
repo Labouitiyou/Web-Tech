@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web-Tech/static/css/main.c1addd9b.css",
+    "main.js": "/Web-Tech/static/js/main.917e0ba5.js",
+    "index.html": "/Web-Tech/index.html",
+    "main.c1addd9b.css.map": "/Web-Tech/static/css/main.c1addd9b.css.map",
+    "main.917e0ba5.js.map": "/Web-Tech/static/js/main.917e0ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1addd9b.css",
+    "static/js/main.917e0ba5.js"
+  ]
+}
