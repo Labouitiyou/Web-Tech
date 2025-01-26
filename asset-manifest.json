@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Web-Tech/static/css/main.9ac100b9.css",
+    "main.css": "/Web-Tech/static/css/main.7ebbdd73.css",
     "main.js": "/Web-Tech/static/js/main.6c4e4406.js",
     "static/media/webtech.jpg": "/Web-Tech/static/media/webtech.cc3f3fe12f074b9a9f97.jpg",
     "static/media/logo.jpg": "/Web-Tech/static/media/logo.35d26fef015f505c0086.jpg",
     "index.html": "/Web-Tech/index.html",
-    "main.9ac100b9.css.map": "/Web-Tech/static/css/main.9ac100b9.css.map",
+    "main.7ebbdd73.css.map": "/Web-Tech/static/css/main.7ebbdd73.css.map",
     "main.6c4e4406.js.map": "/Web-Tech/static/js/main.6c4e4406.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ac100b9.css",
+    "static/css/main.7ebbdd73.css",
     "static/js/main.6c4e4406.js"
   ]
 }
