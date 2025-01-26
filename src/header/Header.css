@@ -24,3 +24,12 @@
 .menu a:hover {
   color: rgb(75, 60, 233);
 }
+@media (max-width: 767.98px) {
+  .logo {
+    width: 150px;
+    height: 100px;
+  }
+  .menu {
+    gap: 1rem;
+  }
+}
