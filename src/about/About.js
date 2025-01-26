@@ -1,13 +1,10 @@
 import React from "react";
 import "./About.css";
+import webtech from "../assets/webtech.jpg";
 
 const About = () => (
   <section id="about" className="about">
-    <img
-      src="/webtech.jpg"
-      alt="À propos de Web Tech"
-      className="about-image"
-    />
+    <img src={webtech} alt="À propos de Web Tech" className="about-image" />
     <div className="about-content">
       <h2>À propos de nous</h2>
       <p>
