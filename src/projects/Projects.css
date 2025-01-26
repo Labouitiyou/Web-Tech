@@ -29,7 +29,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .project-image {
-  width: 60%;
+  width: 50%;
   height: 90%;
   border-radius: 0.5rem;
   object-fit: cover;
