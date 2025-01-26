@@ -25,7 +25,7 @@
   transition: transform 0.3s, box-shadow 0.3s;
 }
 .project-item:hover {
-  transform: scale(1.02);
+  transform: scale(1.1);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .project-image {

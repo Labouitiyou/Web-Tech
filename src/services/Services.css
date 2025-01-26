@@ -19,6 +19,11 @@
   text-align: center;
   background-color: rgb(40, 10, 68);
   color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.service-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .service-item h3 {
   font-size: 1.25rem;
